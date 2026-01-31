@@ -1,5 +1,5 @@
-## HelpDesk-Full-Stack-
-## HelpDesk 
+# HelpDesk-Full-Stack-
+# HelpDesk 
 - Full-Stack Support System An end-to-end ticketing system for IT support, featuring real-time status tracking and role-based access.  
 ### Features 
 - Multi-user interfaces (Admin, Technician, Client). - Ticket lifecycle management. - Responsive dashboard.  
